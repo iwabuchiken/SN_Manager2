@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style 
+	    name="dflt_txt_attr">
+	    <item name="android:textSize">30sp</item>
+	</style>
+
+</resources>

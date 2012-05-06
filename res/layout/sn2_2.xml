@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:layout_width="fill_parent" 
+    android:layout_height="fill_parent">
+ 
+    <com.google.android.maps.MapView 
+        android:id="@+id/mapView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:enabled="true"
+        android:clickable="true"
+        android:apiKey="015vj2LedgQxwTnl4fBG702nXdjXN8BxOGXzruA"
+        />
+ 
+</RelativeLayout>
+
+<!-- Fingerprint 3F:70:AF:8E:E5:D1:32:9E:DE:C4:91:83:A4:51:BF:C1 -->
+<!-- API key 015vj2LedgQxwTnl4fBG702nXdjXN8BxOGXzruA -->
